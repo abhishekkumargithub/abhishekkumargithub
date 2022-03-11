@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekkumargithub
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on web developmnt projects
 - 📫 How to reach me  
 Gmail: abhishek.kumar2021d@vitstudent.ac.in
