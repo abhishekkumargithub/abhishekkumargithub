@@ -1,7 +1,7 @@
 - 📫 How to reach me  
 Gmail: abhishek.kumar2021d@vitstudent.ac.in
 
-<h2 align="center">Hi 👋! My name is Abhishek and I'm a Problem Solver and MERN stack developer. 👀 I’m looking to collaborate on web developmnt projects.</h2>
+<h2 align="center">Hi 👋! My name is Abhishek and I'm a Problem Solver and MERN stack developer. 👀 I’m looking to collaborate on web development projects.</h2>
 
 ###
 
@@ -56,7 +56,6 @@ Gmail: abhishek.kumar2021d@vitstudent.ac.in
   <a href="https://www.hackerrank.com/_abhishek81_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
