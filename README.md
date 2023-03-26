@@ -68,6 +68,6 @@ Gmail: abhishek.kumar2021d@vitstudent.ac.in
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhishekkumargithub/abhishekkumargithub/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/abhishekkumargithub/abhishekkumargithub/blob/output/snake.svg" alt="Snake animation" />
 
 ###
