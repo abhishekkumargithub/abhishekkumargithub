@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @abhishekkumargithub
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on web developmnt projects
 - 📫 How to reach me  
 Gmail: abhishek.kumar2021d@vitstudent.ac.in
 
-<h2 align="center">Hi 👋! My name is Abhishek and I'm a Problem Solver and MERN stack developer..</h2>
+<h2 align="center">Hi 👋! My name is Abhishek and I'm a Problem Solver and MERN stack developer. 👀 I’m looking to collaborate on web developmnt projects.</h2>
 
 ###
 
