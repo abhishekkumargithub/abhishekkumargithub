@@ -2,7 +2,7 @@
 - 📫 How to reach me  
 Gmail: abhishek.kumar2021d@vitstudent.ac.in
 
-<h2 align="center">Hi 👋! My name is Abhishek and I'm a Problem Solver and MERN stack developer. 👀 I’m looking to collaborate on web development projects.</h2>
+<h2 align="center">Hi 👋! My name is Abhishek and I'm a Competitive programmer and MERN stack developer. 👀 I’m looking to collaborate on web development projects.</h2>
 
 ###
 
