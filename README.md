@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+<img align="justify" height="180" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 
 
 ###
