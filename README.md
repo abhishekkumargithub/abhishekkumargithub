@@ -18,12 +18,6 @@
 
 ###
 
-<img align="center" height="180" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
-
-
-
-###
-
 <br clear="both">
 
 <img src="https://github.com/abhishekkumargithub/abhishekkumargithub/blob/output/snake.svg" alt="Snake animation" />
