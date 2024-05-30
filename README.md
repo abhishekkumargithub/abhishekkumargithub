@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on UI/UX.
-<br>👯 I’m looking to collaborate on Web Dev. projects.
+🔭 I’m currently working on ML/AI.
+<br>👯 I’m looking to collaborate on Software Dev. projects.
 <br>💬 Ask me about Competitive Programming.
 
 
